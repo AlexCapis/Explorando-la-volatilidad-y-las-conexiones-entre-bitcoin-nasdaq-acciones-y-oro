@@ -30,5 +30,5 @@ En este análisis exploratorio de datos, nos adentraremos en el fascinante mundo
 
 ## Contribución
 
-Siéntete libre de realizar cualquier contribución a este proyecto. Puedes abrir un "Issue" para informar de problemas, sugerir mejoras o proponer nuevas funcionalidades.
+Siéntete libre de realizar cualquier contribución a este proyecto. 
 

@@ -1,7 +1,8 @@
 
 
 # Explorando-la-volatilidad-y-las-conexiones-entre-bitcoin-nasdaq-acciones-y-oro
-&nbsp;Explora la volatilidad y las conexiones entre Bitcoin, Nasdaq, acciones y Oro. Descubre si Bitcoin es el activo más volátil y analiza correlaciones significativas. Examina el impacto de los días de la semana en la volatilidad. Este estudio revelador brinda una visión integral del mundo financiero.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¡Explora la volatilidad y las conexiones entre Bitcoin, Nasdaq, acciones y Oro. Descubre si Bitcoin es el activo más volátil y analiza correlaciones significativas. Examina el impacto de los días de la semana en la volatilidad. Este estudio revelador brinda una visión integral del mundo financiero.!
+Explora la volatilidad y las conexiones entre Bitcoin, Nasdaq, acciones y Oro. Descubre si Bitcoin es el activo más volátil y analiza correlaciones significativas. Examina el impacto de los días de la semana en la volatilidad. Este estudio revelador brinda una visión integral del mundo financiero.
 
 ## Tema a tratar
 &nbsp;En este análisis exploratorio de datos, nos adentraremos en el fascinante mundo de los activos financieros para comprender la volatilidad y las interconexiones entre Bitcoin, el índice Nasdaq, acciones y el Oro. A &nbsp;través de una minuciosa exploración de los datos históricos, nos centraremos en tres hipótesis fundamentales.

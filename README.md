@@ -20,7 +20,7 @@ En este análisis exploratorio de datos, nos adentraremos en el fascinante mundo
 
 ## Estructura de Carpetas
 
-1. `src/`: Se encontrará el código en un Jupiter Notebook con su respectiva explicación.
+1. `src/`: Se encontrará el código en un Jupiter Notebook con su respectiva explicación llamado EDA_VOLATILIDAD.ipynb
 2. `src/data/`: Se encuentran todos los archivos de datos utilizados en el análisis.
 3. `src/notebooks/`: Se encuentran los notebooks usados como pruebas.
 4. `src/utils/`: Se encuentran las funciones y las variables utilizadas durante el proyecto.

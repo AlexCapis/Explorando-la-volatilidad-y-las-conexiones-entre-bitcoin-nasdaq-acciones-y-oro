@@ -1,7 +1,11 @@
 
 
 # Explorando-la-volatilidad-y-las-conexiones-entre-bitcoin-nasdaq-acciones-y-oro
+<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;¡Explora la volatilidad y las conexiones entre Bitcoin, Nasdaq, acciones y Oro. Descubre si Bitcoin es el activo más volátil y analiza correlaciones significativas. Examina el impacto de los días de la semana en la volatilidad. Este estudio revelador brinda una visión integral del mundo financiero.!
+=======
+Explora la volatilidad y las conexiones entre Bitcoin, Nasdaq, acciones y Oro. Descubre si Bitcoin es el activo más volátil y analiza correlaciones significativas. Examina el impacto de los días de la semana en la volatilidad. Este estudio revelador brinda una visión integral del mundo financiero.!
+>>>>>>> b6e50210a8b8beb9f56687f7fd813411bbbf9eb0
 
 
 ## Tema a tratar
@@ -22,7 +26,11 @@ En este análisis exploratorio de datos, nos adentraremos en el fascinante mundo
 
 ## Estructura de Carpetas
 
+<<<<<<< HEAD
 1. `src/`: Se encontrará el código en un Jupiter Notebook con su respectiva explicación.
+=======
+1. `src/`: Se encontrará el código en un Jupiter Notebook con su respectiva explicación llamado EDA_VOLATILIDAD.ipynb
+>>>>>>> b6e50210a8b8beb9f56687f7fd813411bbbf9eb0
 2. `src/data/`: Se encuentran todos los archivos de datos utilizados en el análisis.
 3. `src/notebooks/`: Se encuentran los notebooks usados como pruebas.
 4. `src/utils/`: Se encuentran las funciones y las variables utilizadas durante el proyecto.
@@ -32,3 +40,7 @@ En este análisis exploratorio de datos, nos adentraremos en el fascinante mundo
 
 Siéntete libre de realizar cualquier contribución a este proyecto. 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> b6e50210a8b8beb9f56687f7fd813411bbbf9eb0
